@@ -85,7 +85,6 @@ def play(board)
     puts "Cat's Game!"
   end
 end
-end
 # def play(board)
 #   turn(board)
 #   if won?(board)
